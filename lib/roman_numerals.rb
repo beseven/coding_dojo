@@ -7,6 +7,6 @@ class RomanNumerals
   end
   
   def arabic_to_roman
-    "I"
+    true
   end
 end
