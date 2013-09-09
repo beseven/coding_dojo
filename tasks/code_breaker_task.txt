@@ -1,0 +1,3 @@
+http://webcache.googleusercontent.com/search?q=cache:http://katacasts.com/
+A kata to mark results from guessing a sequence of characters. 
+The result shows the number of correct characters in the correct place, and the number of characters that is in the wrong place.
